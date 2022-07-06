@@ -1,1 +1,175 @@
 
+#include<iostream>
+using namespace std;
+/*
+
+//pattern 1
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=n){
+            cout << "*" << " ";
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+}
+*/
+/*
+//pattern 2
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=i){
+            cout << "*" << " ";
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+}
+
+*/
+/*
+//pattern3
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=i){
+            cout << j << " ";
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+}
+*/
+
+
+/*
+//pattern4
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=i){
+            cout << (n-j+1) << " ";
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+}
+*/
+/*
+//pattern5
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    int count = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=i){
+            cout << count << " ";
+            count++;
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+    
+    return 0;
+}
+*/
+/*
+//pattern6
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    int count = 1;
+    
+    while(i<=n){
+        int j = 1;
+        
+        while(j<=n){
+            cout << count << " ";
+            count++;
+            j++;
+        }
+        cout << endl;
+        i++;
+    }
+    
+    return 0;
+}
+
+*/
+
+//pattern7
+
+int main(){
+    
+    int n;
+    cin >>n;
+    
+    int i = 1;
+    
+    while(i <= n){
+        
+        int j = 1;
+        int value = 1;
+        
+    while(j <=n){
+        
+    }
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   return 0; 
+    
+}
